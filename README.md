@@ -1,4 +1,6 @@
 - Hi, I’m @JDevWebb
-- Python/Django Dev
+- Python/Django
+- Web Development
+- Docker
 
 
