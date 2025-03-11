@@ -1,6 +1,5 @@
-- Hi, I’m @JDevWebb
-- Python/Django
-- Web Development
+- Hi, I’m Jason
+- Full Stack Web Developer (Python/Django/Vue.JS)
 - Docker
 
 
