@@ -16,9 +16,6 @@ Full-stack web development with a focus on Docker containerization for clean, po
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📫 How to Reach Me
-
-- **Email:** jason@heliosit.co.nz
 
 > Why do developers prefer Docker over bare metal?
 >
