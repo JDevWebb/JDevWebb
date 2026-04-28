@@ -20,8 +20,6 @@ Full-stack web development with a focus on Docker containerization for clean, po
 
 - **Email:** jason@heliosit.co.nz
 
-## ⚡ IT Joke
-
 > Why do developers prefer Docker over bare metal?
 >
 > Because it's the only thing that works perfectly in dev, staging, AND prod — without needing a sacrifice ritual.
