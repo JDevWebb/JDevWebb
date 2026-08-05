@@ -3,12 +3,13 @@
 
 Renders two artefacts, each in a light and a dark variant:
 
-  assets/nameplate-{theme}.svg  -- the identity header
-  assets/stack-{theme}.svg      -- language distribution across every repo I own
+  assets/nameplate-{theme}.svg  the identity header
+  assets/stack-{theme}.svg      language distribution across every repo I own
 
 The stack card reads live data from the GitHub API (via `gh`), so it counts
 private repositories too. Off-the-shelf stat widgets only see public repos,
-which for this account is a handful of forks -- i.e. the wrong answer.
+which for this account is a handful of forks, so they report the wrong
+languages entirely.
 
 Usage:
     python3 tools/generate_cards.py            # refresh from the API
@@ -31,7 +32,7 @@ ASSETS = ROOT / "assets"
 # ---------------------------------------------------------------------------
 # Design tokens
 #
-# Concept: an industrial HMI panel -- a machined bezel with a readout screen
+# Concept: an industrial HMI panel. A machined bezel with a readout screen
 # behind it, the kind bolted to the plant Jason's software actually runs.
 # Dark mode is an amber-phosphor CRT; light mode is a reflective LCD. The bezel
 # carries the craft, the screen carries the data.
@@ -192,7 +193,7 @@ def to_rows(totals: dict[str, int], top: int = 6) -> list[tuple[str, float, bool
     """Top-N languages by share, with the tail folded into a single 'Other'.
 
     Returns (label, percent, is_tail) sorted descending. Folding the tail keeps
-    every bar readable -- sub-1% slivers are noise, not information.
+    every bar readable. Sub-1% slivers are noise.
     """
     total = sum(totals.values())
     ranked = sorted(totals.items(), key=lambda kv: kv[1], reverse=True)
@@ -232,7 +233,7 @@ def spans(x, y, pieces, *, size=13, weight=400, track=0):
     """One text run made of differently-coloured pieces.
 
     Uses tspans rather than separate <text> elements so the renderer advances
-    the cursor itself -- monospace advance varies just enough between Menlo,
+    the cursor itself. Monospace advance varies just enough between Menlo,
     SF Mono and Consolas to drift if we compute x by hand.
     """
     body = "".join(

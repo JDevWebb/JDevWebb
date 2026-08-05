@@ -5,7 +5,7 @@ name: Refresh profile cards
 # Requires a repository secret named CARDS_TOKEN: a fine-grained or classic PAT
 # with read access to your repositories. The built-in GITHUB_TOKEN only sees
 # this repo, so it would report the wrong numbers. Without the secret this
-# workflow will fail on the `gh api` call -- run the script locally instead:
+# workflow will fail on the `gh api` call. Run the script locally instead:
 #
 #     python3 tools/generate_cards.py
 
