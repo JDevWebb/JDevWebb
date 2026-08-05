@@ -1,0 +1,45 @@
+name: Refresh profile cards
+
+# Regenerates the language-distribution card so it stays current.
+#
+# Requires a repository secret named CARDS_TOKEN: a fine-grained or classic PAT
+# with read access to your repositories. The built-in GITHUB_TOKEN only sees
+# this repo, so it would report the wrong numbers. Without the secret this
+# workflow will fail on the `gh api` call -- run the script locally instead:
+#
+#     python3 tools/generate_cards.py
+
+on:
+  schedule:
+    - cron: "0 15 * * 0"   # Sundays, 03:00 NZST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate cards
+        env:
+          GH_TOKEN: ${{ secrets.CARDS_TOKEN }}
+        run: python3 tools/generate_cards.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets; then
+            echo "No change."
+            exit 0
+          fi
+          git add assets
+          git commit -m "chore: refresh language distribution"
+          git push

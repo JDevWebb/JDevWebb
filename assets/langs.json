@@ -1,0 +1,14 @@
+{
+  "repos": 11,
+  "languages": {
+    "Shell": 31297,
+    "Dockerfile": 24001,
+    "Vue": 4866696,
+    "TypeScript": 959134,
+    "CSS": 115421,
+    "HTML": 1539590,
+    "JavaScript": 256274,
+    "Python": 4394723,
+    "Kotlin": 424682
+  }
+}

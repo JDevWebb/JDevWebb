@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 363" width="900" height="363" role="img" aria-labelledby="t d">
+  <title id="t">jason@heliosit</title>
+  <desc id="d">A terminal readout in the style of neofetch. On the left, the heliosIT sun mark drawn in ASCII. On the right: jason@heliosit, role, Full-stack developer; based, Christchurch, NZ; clients, NZ small business; stack, Vue · Django · Docker; builds, Business systems; since, 2017. I build the systems small businesses run on.</desc>
+<defs>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2B3138"/>
+      <stop offset="0.45" stop-color="#1D2126"/>
+      <stop offset="1" stop-color="#12151A"/>
+    </linearGradient>
+    <linearGradient id="bevel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3C444D"/>
+      <stop offset="0.5" stop-color="#3C444D" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#0B0D10"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0C0F0D"/>
+      <stop offset="1" stop-color="#070908"/>
+    </linearGradient>
+    <linearGradient id="glassEdge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B0D10"/>
+      <stop offset="1" stop-color="#3C444D" stop-opacity="0.45"/>
+    </linearGradient>
+    <radialGradient id="vig" cx="0.5" cy="0.46" r="0.78">
+      <stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.45"/>
+    </radialGradient>
+    <radialGradient id="rivet" cx="0.35" cy="0.32" r="0.85">
+      <stop offset="0" stop-color="#59626C"/>
+      <stop offset="1" stop-color="#141820"/>
+    </radialGradient>
+    <pattern id="brush" width="6" height="3" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0.5" x2="6" y2="0.5" stroke="#FFFFFF"
+            stroke-opacity="0.022" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="3" height="3" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="2.5" x2="3" y2="2.5" stroke="#000000"
+            stroke-opacity="0.30" stroke-width="1"/>
+      
+    </pattern>
+  </defs>
+
+  <rect x="4" y="4" width="892" height="355" rx="13" fill="url(#body)"/>
+  <rect x="4" y="4" width="892" height="355" rx="13" fill="url(#brush)"/>
+  <rect x="4.75" y="4.75" width="890.5" height="353.5" rx="12.5"
+        fill="none" stroke="url(#bevel)" stroke-width="1.5"/>
+  <rect x="56" y="26" width="788" height="311" rx="4" fill="url(#screen)"/>
+  <rect x="56" y="26" width="788" height="311" rx="4" fill="url(#scan)"/>
+  <rect x="56" y="26" width="788" height="311" rx="4" fill="url(#vig)"/>
+  <rect x="56.5" y="26.5" width="787" height="310" rx="3.5"
+        fill="none" stroke="url(#glassEdge)" stroke-width="1"/>
+  <circle cx="34" cy="34" r="5.5" fill="url(#rivet)"/><circle cx="34" cy="34" r="5.5" fill="none" stroke="#0B0D10" stroke-opacity="0.55" stroke-width="0.9"/><circle cx="32.6" cy="32.6" r="1.6" fill="#59626C" opacity="0.75"/><circle cx="866" cy="34" r="5.5" fill="url(#rivet)"/><circle cx="866" cy="34" r="5.5" fill="none" stroke="#0B0D10" stroke-opacity="0.55" stroke-width="0.9"/><circle cx="864.6" cy="32.6" r="1.6" fill="#59626C" opacity="0.75"/><circle cx="34" cy="329" r="5.5" fill="url(#rivet)"/><circle cx="34" cy="329" r="5.5" fill="none" stroke="#0B0D10" stroke-opacity="0.55" stroke-width="0.9"/><circle cx="32.6" cy="327.6" r="1.6" fill="#59626C" opacity="0.75"/><circle cx="866" cy="329" r="5.5" fill="url(#rivet)"/><circle cx="866" cy="329" r="5.5" fill="none" stroke="#0B0D10" stroke-opacity="0.55" stroke-width="0.9"/><circle cx="864.6" cy="327.6" r="1.6" fill="#59626C" opacity="0.75"/>
+<text x="84" y="63" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="12" font-weight="400" xml:space="preserve"><tspan fill="#E8A33D" font-weight="600">jason@heliosit</tspan><tspan fill="#A9762F">:~$ </tspan><tspan fill="#F7C368" font-weight="600">neofetch</tspan></text>
+  <text x="350" y="98" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#F7C368" font-weight="700">jason</tspan><tspan fill="#A9762F">@</tspan><tspan fill="#F7C368" font-weight="700">heliosit</tspan></text>
+  <line x1="350" y1="110" x2="816" y2="110" stroke="#4A3A22" stroke-width="1"/>
+  <text x="350" y="136" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13.5" font-weight="400" xml:space="preserve"><tspan fill="#E8A33D" font-weight="700">Role:    </tspan><tspan fill="#F7C368">Full-stack developer</tspan></text>
+  <text x="350" y="160" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13.5" font-weight="400" xml:space="preserve"><tspan fill="#E8A33D" font-weight="700">Based:   </tspan><tspan fill="#F7C368">Christchurch, NZ</tspan></text>
+  <text x="350" y="184" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13.5" font-weight="400" xml:space="preserve"><tspan fill="#E8A33D" font-weight="700">Clients: </tspan><tspan fill="#F7C368">NZ small business</tspan></text>
+  <text x="350" y="208" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13.5" font-weight="400" xml:space="preserve"><tspan fill="#E8A33D" font-weight="700">Stack:   </tspan><tspan fill="#F7C368">Vue · Django · Docker</tspan></text>
+  <text x="350" y="232" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13.5" font-weight="400" xml:space="preserve"><tspan fill="#E8A33D" font-weight="700">Builds:  </tspan><tspan fill="#F7C368">Business systems</tspan></text>
+  <text x="350" y="256" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13.5" font-weight="400" xml:space="preserve"><tspan fill="#E8A33D" font-weight="700">Since:   </tspan><tspan fill="#F7C368">2017</tspan></text>
+  <text x="350" y="286" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="12" font-weight="400" fill="#A9762F"># I build the systems small businesses run on.</text>
+  <rect x="350" y="300" width="16" height="9" fill="#F7C368" opacity="0.18"/>
+  <rect x="372" y="300" width="16" height="9" fill="#F7C368" opacity="0.297"/>
+  <rect x="394" y="300" width="16" height="9" fill="#F7C368" opacity="0.414"/>
+  <rect x="416" y="300" width="16" height="9" fill="#F7C368" opacity="0.531"/>
+  <rect x="438" y="300" width="16" height="9" fill="#F7C368" opacity="0.648"/>
+  <rect x="460" y="300" width="16" height="9" fill="#F7C368" opacity="0.765"/>
+  <rect x="482" y="300" width="16" height="9" fill="#F7C368" opacity="0.882"/>
+  <rect x="504" y="300" width="16" height="9" fill="#F7C368" opacity="0.999"/>
+  <text x="84" y="108.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">                  |</text>
+  <text x="84" y="123.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">              \       /</text>
+  <text x="84" y="138.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">          \   ·········   /</text>
+  <text x="84" y="153.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">            ··         ··</text>
+  <text x="84" y="168.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">        \ ··             ·· /</text>
+  <text x="84" y="183.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">          ·               ·</text>
+  <text x="84" y="198.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">       -  ·               ·  -</text>
+  <text x="84" y="213.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">          ·               ·</text>
+  <text x="84" y="228.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">        / ··             ·· \</text>
+  <text x="84" y="243.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">            ··         ··</text>
+  <text x="84" y="258.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">          /   ·········   \</text>
+  <text x="84" y="273.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">              /       \</text>
+  <text x="84" y="288.0" font-family="ui-monospace,SFMono-Regular,&#39;SF Mono&#39;,Menlo,Consolas,&#39;Liberation Mono&#39;,monospace" font-size="13" font-weight="600" fill="#E8A33D" xml:space="preserve">                  |</text>
+</svg>
