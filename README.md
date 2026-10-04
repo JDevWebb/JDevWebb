@@ -41,7 +41,7 @@ official servers went dark.
 - Signed, self-updating releases; one-script self-hosting
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,go,vue,python,docker,linux&theme=light"><img src="https://skillicons.dev/icons?i=rust,go,vue,python,docker,linux&theme=dark" height="32" alt="Rust, Go, Vue, Python, Docker, Linux"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cgo%2Cvue%2Cpython%2Cdocker%2Clinux&theme=light"><img src="https://skillicons.dev/icons?i=rust,go,vue,python,docker,linux&theme=dark" height="32" alt="Rust, Go, Vue, Python, Docker, Linux"></picture>
 </p>
 
 <a href="https://github.com/JDevWebb/5th-echelon-enhanced/releases/latest"><img src="https://img.shields.io/github/v/release/JDevWebb/5th-echelon-enhanced?style=flat-square&label=release" alt="Latest release"></a>
@@ -70,7 +70,7 @@ mostly manufacturers, trades and owner-operators with no IT department.
 - Microsoft 365, Google Workspace, networks and automation
 
 <p>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,django,postgres,cloudflare,docker&theme=light"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,django,postgres,cloudflare,docker&theme=dark" height="32" alt="Vue, Nuxt, Django, PostgreSQL, Cloudflare, Docker"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Cnuxtjs%2Cdjango%2Cpostgres%2Ccloudflare%2Cdocker&theme=light"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,django,postgres,cloudflare,docker&theme=dark" height="32" alt="Vue, Nuxt, Django, PostgreSQL, Cloudflare, Docker"></picture>
 </p>
 
 <a href="https://heliosit.co.nz/portfolio"><img src="https://img.shields.io/badge/portfolio-heliosit.co.nz-00A8B0?style=flat-square" alt="Portfolio"></a>
@@ -83,15 +83,15 @@ mostly manufacturers, trades and owner-operators with no IT department.
 
 **Frontend & mobile**
 <br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,vite,html,css,kotlin&theme=light"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,vite,html,css,kotlin&theme=dark" alt="Vue, Nuxt, TypeScript, JavaScript, Tailwind, Vite, HTML, CSS, Kotlin"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue%2Cnuxtjs%2Cts%2Cjs%2Ctailwind%2Cvite%2Chtml%2Ccss%2Ckotlin&theme=light"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,vite,html,css,kotlin&theme=dark" alt="Vue, Nuxt, TypeScript, JavaScript, Tailwind, Vite, HTML, CSS, Kotlin"></picture>
 
 **Backend**
 <br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,graphql,postgres,redis,rust,go&theme=light"><img src="https://skillicons.dev/icons?i=python,django,graphql,postgres,redis,rust,go&theme=dark" alt="Python, Django, GraphQL, PostgreSQL, Redis, Rust, Go"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cdjango%2Cgraphql%2Cpostgres%2Credis%2Crust%2Cgo&theme=light"><img src="https://skillicons.dev/icons?i=python,django,graphql,postgres,redis,rust,go&theme=dark" alt="Python, Django, GraphQL, PostgreSQL, Redis, Rust, Go"></picture>
 
 **Infrastructure**
 <br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,cloudflare,linux,githubactions,sentry&theme=light"><img src="https://skillicons.dev/icons?i=docker,cloudflare,linux,githubactions,sentry&theme=dark" alt="Docker, Cloudflare, Linux, GitHub Actions, Sentry"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Ccloudflare%2Clinux%2Cgithubactions%2Csentry&theme=light"><img src="https://skillicons.dev/icons?i=docker,cloudflare,linux,githubactions,sentry&theme=dark" alt="Docker, Cloudflare, Linux, GitHub Actions, Sentry"></picture>
 
 ---
 
