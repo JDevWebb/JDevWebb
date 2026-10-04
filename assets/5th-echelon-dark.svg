@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="5th Echelon Enhanced">
+  <title>5th Echelon Enhanced</title>
+  <!-- Dark-mode variant of docs/logo.svg in 5th-echelon-enhanced: lifted tile and steps so it reads on GitHub's dark background. -->
+  <rect x="4" y="4" width="92" height="92" rx="18" fill="#26333a" stroke="#56666e" stroke-width="2"/>
+  <rect x="16" y="68" width="14" height="14" rx="2" fill="#6b7d85"/>
+  <rect x="30" y="54" width="14" height="14" rx="2" fill="#83969e"/>
+  <rect x="44" y="40" width="14" height="14" rx="2" fill="#9cadb5"/>
+  <rect x="58" y="26" width="14" height="14" rx="2" fill="#bccad1"/>
+  <rect x="72" y="12" width="14" height="14" rx="2" fill="#9be05a"/>
+</svg>

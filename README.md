@@ -22,7 +22,10 @@ and Django, always containerised.
 
 <p align="center">
   <a href="https://github.com/JDevWebb/5th-echelon-enhanced">
-    <img src="https://raw.githubusercontent.com/JDevWebb/5th-echelon-enhanced/main/docs/logo.svg" height="96" alt="5th Echelon Enhanced">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/5th-echelon-dark.svg">
+      <img src="https://raw.githubusercontent.com/JDevWebb/5th-echelon-enhanced/main/docs/logo.svg" height="96" alt="5th Echelon Enhanced">
+    </picture>
   </a>
 </p>
 
@@ -38,7 +41,7 @@ official servers went dark.
 - Signed, self-updating releases; one-script self-hosting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,go,vue,python,docker,linux" height="32" alt="Rust, Go, Vue, Python, Docker, Linux">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,go,vue,python,docker,linux&theme=light"><img src="https://skillicons.dev/icons?i=rust,go,vue,python,docker,linux&theme=dark" height="32" alt="Rust, Go, Vue, Python, Docker, Linux"></picture>
 </p>
 
 <a href="https://github.com/JDevWebb/5th-echelon-enhanced/releases/latest"><img src="https://img.shields.io/github/v/release/JDevWebb/5th-echelon-enhanced?style=flat-square&label=release" alt="Latest release"></a>
@@ -67,7 +70,7 @@ mostly manufacturers, trades and owner-operators with no IT department.
 - Microsoft 365, Google Workspace, networks and automation
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,django,postgres,cloudflare,docker" height="32" alt="Vue, Nuxt, Django, PostgreSQL, Cloudflare, Docker">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,django,postgres,cloudflare,docker&theme=light"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,django,postgres,cloudflare,docker&theme=dark" height="32" alt="Vue, Nuxt, Django, PostgreSQL, Cloudflare, Docker"></picture>
 </p>
 
 <a href="https://heliosit.co.nz/portfolio"><img src="https://img.shields.io/badge/portfolio-heliosit.co.nz-00A8B0?style=flat-square" alt="Portfolio"></a>
@@ -80,15 +83,15 @@ mostly manufacturers, trades and owner-operators with no IT department.
 
 **Frontend & mobile**
 <br>
-<img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,vite,html,css,kotlin" alt="Vue, Nuxt, TypeScript, JavaScript, Tailwind, Vite, HTML, CSS, Kotlin">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,vite,html,css,kotlin&theme=light"><img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,vite,html,css,kotlin&theme=dark" alt="Vue, Nuxt, TypeScript, JavaScript, Tailwind, Vite, HTML, CSS, Kotlin"></picture>
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=python,django,graphql,postgres,redis,rust,go" alt="Python, Django, GraphQL, PostgreSQL, Redis, Rust, Go">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,graphql,postgres,redis,rust,go&theme=light"><img src="https://skillicons.dev/icons?i=python,django,graphql,postgres,redis,rust,go&theme=dark" alt="Python, Django, GraphQL, PostgreSQL, Redis, Rust, Go"></picture>
 
 **Infrastructure**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,linux,githubactions,sentry" alt="Docker, Cloudflare, Linux, GitHub Actions, Sentry">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,cloudflare,linux,githubactions,sentry&theme=light"><img src="https://skillicons.dev/icons?i=docker,cloudflare,linux,githubactions,sentry&theme=dark" alt="Docker, Cloudflare, Linux, GitHub Actions, Sentry"></picture>
 
 ---
 
