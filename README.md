@@ -1,61 +1,95 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nameplate-dark.svg">
-  <img alt="A terminal readout in the style of neofetch. On the left, the heliosIT sun mark drawn in ASCII. On the right: jason@heliosit. Role, full-stack developer. Based, Christchurch, NZ. Clients, NZ small business. Stack, Vue, Django, Docker. Builds, business systems. Since 2017. I build the systems small businesses run on." src="assets/nameplate-light.svg" width="900">
-</picture>
+<h1 align="center">Jason Webb</h1>
 
-Full-stack developer in Christchurch, New Zealand. I run **heliosIT**, doing
-product engineering and IT consultancy for small business.
+<p align="center">
+  Full-stack developer · <a href="https://heliosit.co.nz"><b>heliosIT</b></a> · Christchurch, New Zealand
+</p>
 
-## What I do
+<p align="center">
+  <a href="https://heliosit.co.nz"><img src="https://img.shields.io/badge/heliosit.co.nz-00A8B0?style=flat-square" alt="heliosit.co.nz"></a>
+  <a href="mailto:jason@heliosit.co.nz"><img src="https://img.shields.io/badge/jason@heliosit.co.nz-333333?style=flat-square" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Christchurch,_NZ-555555?style=flat-square" alt="Christchurch, NZ">
+</p>
 
-**Build.** Long-running business systems: manufacturing and job management,
-quoting, invoicing, dispatch. Mostly Vue and Django, always containerised. I've
-maintained some of them for years.
+I build and maintain the business systems that small companies run on:
+manufacturing and job management, quoting, invoicing and dispatch. Mostly Vue
+and Django, always containerised.
 
-**Consult.** Through heliosIT. Business websites and online stores, managed IT
-and monitoring on a fixed monthly plan, and the setup work underneath it: email,
-Microsoft 365 and Google Workspace, networks, dashboards, workflow automation.
+## Featured
 
-**Who for.** Mostly NZ manufacturers, trades and owner-operators. Companies with
-twenty staff and no IT department.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Selected work
+<p align="center">
+  <a href="https://github.com/JDevWebb/5th-echelon-enhanced">
+    <img src="https://raw.githubusercontent.com/JDevWebb/5th-echelon-enhanced/main/docs/logo.svg" height="96" alt="5th Echelon Enhanced">
+  </a>
+</p>
 
-**VuePoint.** A manufacturing management system covering production, quoting,
-invoicing, labour and dispatch, with tablet and mobile apps for the floor and
-the field.
+<h3 align="center"><a href="https://github.com/JDevWebb/5th-echelon-enhanced">5th Echelon Enhanced</a></h3>
 
-**[powerbill.co.nz](https://powerbill.co.nz).** A free NZ power-bill estimator.
-Pick your region, tick your appliances, get an appliance-by-appliance breakdown
-on current MBIE regional pricing. No login, and no personal data leaves the page.
+Community servers for *Splinter Cell: Blacklist* multiplayer, plus a launcher
+that sets the game up for you. Co-op and Spies vs Mercs, years after the
+official servers went dark.
 
-**Client web.** Marketing sites and online stores for NZ businesses, built on
-Nuxt. Recent work is listed on [heliosit.co.nz/portfolio](https://heliosit.co.nz/portfolio).
+- Public servers in Europe, North America and Oceania
+- Internet play without a VPN or port forwarding
+- Friends, invites and identities that follow you across servers
+- Signed, self-updating releases; one-script self-hosting
 
-*Client and commercial work lives in private repositories, but I'm happy to talk
-through how any of it is built.*
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,go,vue,python,docker,linux" height="32" alt="Rust, Go, Vue, Python, Docker, Linux">
+</p>
 
-## Stack
+<a href="https://github.com/JDevWebb/5th-echelon-enhanced/releases/latest"><img src="https://img.shields.io/github/v/release/JDevWebb/5th-echelon-enhanced?style=flat-square&label=release" alt="Latest release"></a>
+<a href="https://github.com/JDevWebb/5th-echelon-enhanced/stargazers"><img src="https://img.shields.io/github/stars/JDevWebb/5th-echelon-enhanced?style=flat-square" alt="Stars"></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Language distribution across my repositories, public and private: Vue 38.6%, Python 34.8%, HTML 12.2%, TypeScript 7.6%, Kotlin 3.4%, JavaScript 2.0%, Other 1.4%." src="assets/stack-light.svg" width="900">
-</picture>
+</td>
+<td width="50%" valign="top">
 
-```console
-$ cat ~/.stack
-front    Vue 3 · Nuxt 4 · TypeScript · Tailwind · Pinia
-back     Django · Python · GraphQL · PostgreSQL · Redis · Celery
-mobile   Ionic Vue · Capacitor (iOS + Android)
-infra    Docker · Caddy · Railway · Cloudflare Workers · Sentry
-```
+<p align="center">
+  <a href="https://heliosit.co.nz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/heliosit-dark.png">
+      <img src="assets/heliosit-light.png" height="96" alt="heliosIT">
+    </picture>
+  </a>
+</p>
 
-That chart counts every repository I own, including the private ones. The public
-side of this account is three forks, so anything reading only that gets my
-languages wrong. Generated by [`tools/generate_cards.py`](tools/generate_cards.py).
+<h3 align="center"><a href="https://heliosit.co.nz">heliosIT</a></h3>
 
-## Elsewhere
+My company: product engineering and IT consultancy for NZ small business,
+mostly manufacturers, trades and owner-operators with no IT department.
 
-- `email`: [jason@heliosit.co.nz](mailto:jason@heliosit.co.nz)
-- `work`: [heliosit.co.nz](https://heliosit.co.nz)
-- `side`: [powerbill.co.nz](https://powerbill.co.nz)
+- Custom business systems, with web, tablet and mobile apps
+- Business websites and online stores
+- Managed IT and monitoring on a fixed monthly plan
+- Microsoft 365, Google Workspace, networks and automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,django,postgres,cloudflare,docker" height="32" alt="Vue, Nuxt, Django, PostgreSQL, Cloudflare, Docker">
+</p>
+
+<a href="https://heliosit.co.nz/portfolio"><img src="https://img.shields.io/badge/portfolio-heliosit.co.nz-00A8B0?style=flat-square" alt="Portfolio"></a>
+
+</td>
+</tr>
+</table>
+
+## Tech stack
+
+**Frontend & mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,tailwind,vite,html,css,kotlin" alt="Vue, Nuxt, TypeScript, JavaScript, Tailwind, Vite, HTML, CSS, Kotlin">
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=python,django,graphql,postgres,redis,rust,go" alt="Python, Django, GraphQL, PostgreSQL, Redis, Rust, Go">
+
+**Infrastructure**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,linux,githubactions,sentry" alt="Docker, Cloudflare, Linux, GitHub Actions, Sentry">
+
+---
+
+<sub>Most client and commercial work lives in private repositories. Happy to talk through how any of it is built: <a href="mailto:jason@heliosit.co.nz">jason@heliosit.co.nz</a></sub>
